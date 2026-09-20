@@ -23,7 +23,7 @@ As I progress through my CCNA studies, this repository will include labs involvi
 
 ## Labs
 
-### 01 - Basic LAN Connectivity
+### [01 - Basic LAN Connectivity](01-basic-lan/)
 
 Build and troubleshoot a basic LAN containing a Cisco router, two switches, four workstations, and a server.
 
@@ -36,4 +36,4 @@ Topics practiced:
 - Interface verification
 - Basic network troubleshooting
 
-> Lab documentation will be added as the project is completed.
+
